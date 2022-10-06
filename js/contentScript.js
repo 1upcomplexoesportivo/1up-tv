@@ -1,4 +1,4 @@
-var CDN = 'https://1up-tv.vercel.app/';
+var CDN = 'https://1up-tv-1upcomplexoesportivo.vercel.app/';
 var CDN_IMAGES = CDN + 'images/';
 var IMG_BRAND = CDN_IMAGES + '1up-brand.png';
 
